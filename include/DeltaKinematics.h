@@ -1,4 +1,4 @@
-/**
+/*
  * DeltaKinematics - kinematics computation for delta parallel robot arm
  * Copyright(C) 2017  Szymon Szantula
  *
@@ -15,10 +15,19 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.If not, see <http://www.gnu.org/licenses/.>
  */
+
 #ifndef __DELTAKINEMATICS_H__
 #define __DELTAKINEMATICS_H__
+
+/**
+ * @brief For Visual Sudio only
+ */
 #define _USE_MATH_DEFINES
 #include <cmath>
+
+ /**
+ * @brief PI value
+ */
 #define M_PI 3.14159265358979323846
 
 /** 
