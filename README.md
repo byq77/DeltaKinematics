@@ -30,4 +30,4 @@ This project is licensed under the GNU GPL v3.0 License - see the [LICENSE](LICE
 
 ## Acknowledgments
 
-* Robert L. Williams II, Ph.D., williar4@ohio.edu and his paper The Delta Parallel Robot: Kinematics Solutions 
+* **Robert L. Williams II, Ph.D.**, williar4@ohio.edu and his paper : *The Delta Parallel Robot: Kinematics Solutions* 
