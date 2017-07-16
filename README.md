@@ -1,3 +1,6 @@
+
+![C++ written library](byq77.github.io/repository/img/image.jpg)
+
 # DeltaKinematics
 
 The goal of this project is to create the C++ library which will be capable of real-time kinematics computations for delta parallel robot with revolute imputs. It already implements forward and inverse position kinematics calculation. The jacobians calculations and path planning in cartesian and revolute space will be added soon.
