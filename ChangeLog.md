@@ -4,7 +4,7 @@ DeltaKinematics ChangeLog
 v0.1.0
 ======
 
-Release date: 2017-07-016
+Release date: 2017-07-16
 
 This is first pre-release of the library.
 
