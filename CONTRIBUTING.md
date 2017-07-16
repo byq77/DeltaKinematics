@@ -1,3 +1,3 @@
 # How to contribute
 
-More will be added soon...
+You can contribute through pull requests and issues reporting.
