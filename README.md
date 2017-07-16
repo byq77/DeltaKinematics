@@ -22,7 +22,7 @@ The project uses [SemVer](http://semver.org/) for versioning. For the versions a
 
 * **Szymon Szantula** - *Initial work* - [byq77](https://github.com/byq77)
 
-See also the list of [https://github.com/byq77/DeltaKinematics/graph/contributors](contributors) who participated in this project.
+See also the list of [https://github.com/byq77/DeltaKinematics/graphs/contributors](contributors) who participated in this project.
 
 ## License
 
