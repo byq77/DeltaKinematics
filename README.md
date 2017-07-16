@@ -7,7 +7,7 @@ The goal of this project is to create the C++ library which will be capable of r
 
 ## Documentation
 
-Documentation in doxygen will be added soon...
+Documentation is available [here](https://byq77.github.io/DeltaKinematics/html/index.html).
 
 ## Built With
 
