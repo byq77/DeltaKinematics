@@ -12,7 +12,7 @@ Documentation in doxygen will be added soon...
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://github.com/byq77/DeltaKinematics/CONTRIBUTING.md) for details on code of conduct and the process for submitting pull requests.
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on code of conduct and the process for submitting pull requests.
 
 ## Versioning
 
@@ -22,11 +22,11 @@ The project uses [SemVer](http://semver.org/) for versioning. For the versions a
 
 * **Szymon Szantula** - *Initial work* - [byq77](https://github.com/byq77)
 
-See also the list of [contributors](https://github.com/byq77/DeltaKinematics/graphs/contributors) who participated in this project.
+See also the list of [contributors](contributors) who participated in this project.
 
 ## License
 
-This project is licensed under the GNU GPL v3.0 License - see the [LICENSE](https://github.com/byq77/DeltaKinematics/LICENSE) file for details
+This project is licensed under the GNU GPL v3.0 License - see the [LICENSE](LICENSE) file for details
 
 ## Acknowledgments
 
