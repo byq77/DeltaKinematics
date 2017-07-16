@@ -7,7 +7,7 @@ The goal of this project is to create the C++ library which will be capable of r
 
 ## Documentation
 
-Documentation is available [here](https://byq77.github.io/DeltaKinematics/html/index.html).
+Documentation is available [here](http://mts.wibro.agh.edu.pl/~s266944/html/index.html).
 
 ## Built With
 
