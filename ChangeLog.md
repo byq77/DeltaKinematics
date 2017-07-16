@@ -1,7 +1,7 @@
 DeltaKinematics ChangeLog
 ================
 
-v0.1.0
+v0.1.0-alpha
 ======
 
 Release date: 2017-07-16
