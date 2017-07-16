@@ -16,13 +16,13 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on code of conduct an
 
 ## Versioning
 
-The project uses [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+The project uses [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/byq77/DeltaKinematics/tags). 
 
 ## Authors
 
 * **Szymon Szantula** - *Initial work* - [byq77](https://github.com/byq77)
 
-See also the list of [contributors](contributors) who participated in this project.
+See also the list of [https://github.com/byq77/DeltaKinematics/graph/contributors](contributors) who participated in this project.
 
 ## License
 
