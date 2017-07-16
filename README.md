@@ -1,5 +1,5 @@
 
-![C++ written library](byq77.github.io/repository/img/image.jpg)
+![C++ written library](byq77.github.io/DeltaKinematics/img/delta_baner_small.png)
 
 # DeltaKinematics
 
