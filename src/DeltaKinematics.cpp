@@ -1,4 +1,4 @@
-/**
+/*
  * DeltaKinematics - kinematics computation for delta parallel robot arm
  * Copyright(C) 2017  Szymon Szantula
  *
