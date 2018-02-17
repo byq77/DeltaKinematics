@@ -1,14 +1,14 @@
 DeltaKinematics ChangeLog
 ================
 
-pre-release-1
+first-release
 ======
 
-Release date: 2017-07-16
+Release date: 2018-02-17
 
-This is first pre-release of the library.
+This is the first release of the library (that works ::smile::).
 
 What was implemented :
-* Inverse Position Kinematics ([#1](https://github.com/byq77/DeltaKinematics/pull/1))
-* Forward Position Kinematics ([#1](https://github.com/byq77/DeltaKinematics/pull/1))
+* Inverse Position Kinematics
+* Forward Position Kinematics
 

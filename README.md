@@ -1,13 +1,10 @@
-
-![C++ written library](https://byq77.github.io/DeltaKinematics/img/delta_baner_small.png)
-
 # DeltaKinematics
 
-The goal of this project is to create the C++ library which will be capable of real-time kinematics computations for delta parallel robot with revolute imputs. It already implements forward and inverse position kinematics calculation. The jacobians calculations and path planning in cartesian and revolute space will be added soon.
+DeltaKinematics is a library for kinematics calculations for delta prallel robot with revolute inputs.
 
 ## Documentation
 
-Documentation is available [here](http://mts.wibro.agh.edu.pl/~s266944/html/index.html).
+Documentation will be available [here]().
 
 ## Built With
 
@@ -23,9 +20,7 @@ The project uses [SemVer](http://semver.org/) for versioning. For the versions a
 
 ## Authors
 
-* **Szymon Szantula** - *Initial work* - [byq77](https://github.com/byq77)
-
-See also the list of [contributors](https://github.com/byq77/DeltaKinematics/graphs/contributors) who participated in this project.
+* **Szymon Szantula**
 
 ## License
 

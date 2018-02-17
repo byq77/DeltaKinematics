@@ -1,7 +1,0 @@
-sb 660
-sp 90 
-L 200
-l 530 
-h 70
-max_neg_angle -5
-min_parallelogram_angle 55
